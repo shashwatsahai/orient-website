@@ -78,7 +78,7 @@ class FormElement extends Component {
   render() {
     const { data, errors } = this.state;
     return (
-      <Form onSubmit={this.handleSubmit}>
+      <Form className="main-form" onSubmit={this.handleSubmit}>
         <FormGroup>
           <Label for="firstName" required>
             First Name

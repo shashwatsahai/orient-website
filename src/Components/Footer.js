@@ -70,9 +70,9 @@ const Footer = (props) => (
           </ul>
         </div>
       </div>
-      <div className="footer-bottom">
-        <p className="text-xs-center">&copy;2020 Orient Creation</p>
-      </div>
+    </div>
+    <div className="footer-bottom">
+      <p className="text-xs-center">&copy;2020 Orient Creation</p>
     </div>
   </div>
 );

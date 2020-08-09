@@ -66,7 +66,7 @@ function App() {
           path="/"
           component={() => <Carousel photos={mainphotos} />}
         />
-        <Route exact path="/" component={() => <Home />} />
+        <Route exact path="/" component={Home} />
         <Route exact path="/contact" component={FormElement} />
         <Route exact path="/gallery" component={Gallery} />
         <Route exact path="/" component={Footer} />
