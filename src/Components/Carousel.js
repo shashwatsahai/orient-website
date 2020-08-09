@@ -1,6 +1,7 @@
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./Carousel.css";
+
 import Slider from "react-slick";
 import React from "react";
 
@@ -39,6 +40,7 @@ const Carousel = (props) => {
     centerMode: true,
     slidesToShow: 3,
     slidesToScroll: 1,
+    focusOnSelect: true,
     variableWidth: true,
     pauseOnHover: true,
     nextArrow: <SampleNextArrow />,

@@ -9,12 +9,12 @@ import {
 } from "react-router-dom";
 
 const Navbar = (props) => (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light">
+  <nav className="navbar navbar-expand-sm navbar-light bg-light">
     <NavLink className="navbar-brand" exact to="/" activeClassName="active">
       Orient Creation
     </NavLink>
 
-    <div className="collapse navbar-collapse" id="navbarSupportedContent">
+    <div className="navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mr-auto">
         <li className="nav-item">
           <NavLink className="nav-link" exact to="/" activeClassName="active">

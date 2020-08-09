@@ -44,6 +44,8 @@
 
 .slick-track {
   display: flex;
+  padding-top: 20px;
+  padding-bottom: 15px;
 }
 .slick-arrow.slick-next {
   right: 20px;
