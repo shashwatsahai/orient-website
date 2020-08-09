@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/orient-website/static/css/main.03d6428a.chunk.css",
+    "main.js": "/orient-website/static/js/main.419646ae.chunk.js",
+    "main.js.map": "/orient-website/static/js/main.419646ae.chunk.js.map",
+    "runtime-main.js": "/orient-website/static/js/runtime-main.1ec682a5.js",
+    "runtime-main.js.map": "/orient-website/static/js/runtime-main.1ec682a5.js.map",
+    "static/css/2.05d1d35e.chunk.css": "/orient-website/static/css/2.05d1d35e.chunk.css",
+    "static/js/2.8a50cd09.chunk.js": "/orient-website/static/js/2.8a50cd09.chunk.js",
+    "static/js/2.8a50cd09.chunk.js.map": "/orient-website/static/js/2.8a50cd09.chunk.js.map",
+    "index.html": "/orient-website/index.html",
+    "precache-manifest.1f5472649eb384d4e9586387add77898.js": "/orient-website/precache-manifest.1f5472649eb384d4e9586387add77898.js",
+    "service-worker.js": "/orient-website/service-worker.js",
+    "static/css/2.05d1d35e.chunk.css.map": "/orient-website/static/css/2.05d1d35e.chunk.css.map",
+    "static/css/main.03d6428a.chunk.css.map": "/orient-website/static/css/main.03d6428a.chunk.css.map",
+    "static/js/2.8a50cd09.chunk.js.LICENSE.txt": "/orient-website/static/js/2.8a50cd09.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/orient-website/static/media/preface.62e718de.png",
+    "static/media/slick-theme.css": "/orient-website/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec682a5.js",
+    "static/css/2.05d1d35e.chunk.css",
+    "static/js/2.8a50cd09.chunk.js",
+    "static/css/main.03d6428a.chunk.css",
+    "static/js/main.419646ae.chunk.js"
+  ]
+}
