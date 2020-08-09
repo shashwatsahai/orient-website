@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2740444e85c1123da409355d42cd1e17",
+    "revision": "b56600f64f48e9c7cd6b0855b137d365",
     "url": "/orient-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orient-website/static/css/2.05d1d35e.chunk.css"
   },
   {
-    "revision": "a72cb7569cfb5fbe7892",
+    "revision": "b603e19026d3367f2f8d",
     "url": "/orient-website/static/css/main.60f06280.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orient-website/static/js/2.e5e0feb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a72cb7569cfb5fbe7892",
-    "url": "/orient-website/static/js/main.c6965563.chunk.js"
+    "revision": "b603e19026d3367f2f8d",
+    "url": "/orient-website/static/js/main.243e6d78.chunk.js"
   },
   {
     "revision": "f0a5c0be228a906a0633",

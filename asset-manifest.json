@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/orient-website/static/css/main.60f06280.chunk.css",
-    "main.js": "/orient-website/static/js/main.c6965563.chunk.js",
-    "main.js.map": "/orient-website/static/js/main.c6965563.chunk.js.map",
+    "main.js": "/orient-website/static/js/main.243e6d78.chunk.js",
+    "main.js.map": "/orient-website/static/js/main.243e6d78.chunk.js.map",
     "runtime-main.js": "/orient-website/static/js/runtime-main.1ec682a5.js",
     "runtime-main.js.map": "/orient-website/static/js/runtime-main.1ec682a5.js.map",
     "static/css/2.05d1d35e.chunk.css": "/orient-website/static/css/2.05d1d35e.chunk.css",
     "static/js/2.e5e0feb5.chunk.js": "/orient-website/static/js/2.e5e0feb5.chunk.js",
     "static/js/2.e5e0feb5.chunk.js.map": "/orient-website/static/js/2.e5e0feb5.chunk.js.map",
     "index.html": "/orient-website/index.html",
-    "precache-manifest.34a24b6002d6afdb787e030513fecfdc.js": "/orient-website/precache-manifest.34a24b6002d6afdb787e030513fecfdc.js",
+    "precache-manifest.c1c1c93b20c5737ce9e8b1c9da39e14a.js": "/orient-website/precache-manifest.c1c1c93b20c5737ce9e8b1c9da39e14a.js",
     "service-worker.js": "/orient-website/service-worker.js",
     "static/css/2.05d1d35e.chunk.css.map": "/orient-website/static/css/2.05d1d35e.chunk.css.map",
     "static/css/main.60f06280.chunk.css.map": "/orient-website/static/css/main.60f06280.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.05d1d35e.chunk.css",
     "static/js/2.e5e0feb5.chunk.js",
     "static/css/main.60f06280.chunk.css",
-    "static/js/main.c6965563.chunk.js"
+    "static/js/main.243e6d78.chunk.js"
   ]
 }
