@@ -1,16 +1,48 @@
-.btn:focus,
-.btn:active,
-button:focus,
-button:active {
-  outline: none !important;
-  box-shadow: none !important;
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: flex-start;
 }
 
-#image-gallery .modal-footer {
-  display: block;
+.singleImage {
+  padding: 0 20px 20px;
+  height: 300px;
+  border-radius: 34;
 }
 
-.thumb {
-  margin-top: 15px;
-  margin-bottom: 15px;
+.singleImage:hover {
+  padding: 5px;
+  /* opacity: .5; */
+  transition: 0.9s;
+  transform: scale(
+    1.24
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.popupParent {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popupImage {
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+  bottom: 25%;
+  margin: auto;
+}
+
+.imageClosingButton {
+  position: relative;
 }
