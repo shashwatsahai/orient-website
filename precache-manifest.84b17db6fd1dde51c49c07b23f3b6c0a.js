@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b56600f64f48e9c7cd6b0855b137d365",
+    "revision": "6ba6476671b702a1d0ee6957559c5dfb",
     "url": "/orient-website/index.html"
   },
   {
-    "revision": "c62b6441b37cd7a43b5d",
+    "revision": "5518199a2cb653ce274b",
     "url": "/orient-website/static/css/2.05d1d35e.chunk.css"
   },
   {
-    "revision": "b603e19026d3367f2f8d",
+    "revision": "56a47c9df89b70ae4d39",
     "url": "/orient-website/static/css/main.60f06280.chunk.css"
   },
   {
-    "revision": "c62b6441b37cd7a43b5d",
-    "url": "/orient-website/static/js/2.e5e0feb5.chunk.js"
+    "revision": "5518199a2cb653ce274b",
+    "url": "/orient-website/static/js/2.60d13463.chunk.js"
   },
   {
     "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "/orient-website/static/js/2.e5e0feb5.chunk.js.LICENSE.txt"
+    "url": "/orient-website/static/js/2.60d13463.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b603e19026d3367f2f8d",
-    "url": "/orient-website/static/js/main.243e6d78.chunk.js"
+    "revision": "56a47c9df89b70ae4d39",
+    "url": "/orient-website/static/js/main.706424e4.chunk.js"
   },
   {
     "revision": "f0a5c0be228a906a0633",
