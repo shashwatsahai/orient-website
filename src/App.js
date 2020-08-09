@@ -1,7 +1,7 @@
 import React from "react";
 //import logo from './logo.svg';
 import "bootstrap/dist/css/bootstrap.min.css";
-import { HashRouter as Router, Route, Switch, Link } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 
 import Navbar from "./Components/Navbar";
@@ -34,28 +34,28 @@ function App() {
     },
   ];
 
-  const kioskphotos = [
-    {
-      name: "p2",
-      url:
-        "http://www.statuscreation.com/wp-content/uploads/2020/08/banner4-768x994.jpg",
-    },
-    {
-      name: "p3",
-      url:
-        "http://www.statuscreation.com/wp-content/uploads/2020/08/car2-768x994.jpg",
-    },
-    {
-      name: "p4",
-      url:
-        "http://www.statuscreation.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-01-at-15.30.29-1-768x996.jpeg",
-    },
-    {
-      name: "p5",
-      url:
-        "http://www.statuscreation.com/wp-content/uploads/2020/08/banner3.jpg",
-    },
-  ];
+  // const kioskphotos = [
+  //   {
+  //     name: "p2",
+  //     url:
+  //       "http://www.statuscreation.com/wp-content/uploads/2020/08/banner4-768x994.jpg",
+  //   },
+  //   {
+  //     name: "p3",
+  //     url:
+  //       "http://www.statuscreation.com/wp-content/uploads/2020/08/car2-768x994.jpg",
+  //   },
+  //   {
+  //     name: "p4",
+  //     url:
+  //       "http://www.statuscreation.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-01-at-15.30.29-1-768x996.jpeg",
+  //   },
+  //   {
+  //     name: "p5",
+  //     url:
+  //       "http://www.statuscreation.com/wp-content/uploads/2020/08/banner3.jpg",
+  //   },
+  // ];
 
   return (
     <Router>

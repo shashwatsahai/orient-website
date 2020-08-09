@@ -44,7 +44,7 @@ const Footer = (props) => (
                 ></FontAwesomeIcon>
               </li>
             </a>
-            <a href="#">
+            <a href="https://www.facebook.com/orientcreation">
               <li className="list-group-item" href="#">
                 <FontAwesomeIcon
                   icon={faFacebookSquare}
@@ -52,7 +52,10 @@ const Footer = (props) => (
                 ></FontAwesomeIcon>
               </li>
             </a>
-            <a href="#" style={{ color: "#3f729b" }}>
+            <a
+              href="https://www.instagram.com/orient_creation/"
+              style={{ color: "#3f729b" }}
+            >
               <li className="list-group-item">
                 <FontAwesomeIcon
                   icon={faInstagramSquare}

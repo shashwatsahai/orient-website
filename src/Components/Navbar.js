@@ -1,12 +1,6 @@
 import React from "react";
 
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  Link,
-  NavLink,
-} from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const Navbar = (props) => (
   <nav className="navbar navbar-expand-sm navbar-light bg-light">
