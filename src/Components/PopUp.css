@@ -1,0 +1,6 @@
+.popupImage img {
+  position: absolute;
+  object-fit: cover;
+  width: 600px;
+  max-width: 200%;
+}

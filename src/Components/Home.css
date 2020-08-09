@@ -1,0 +1,21 @@
+.preface {
+  background-image: url("../Assets/preface.png");
+  background-size: contain;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+p {
+  font-family: "Arial", Helvetica, sans-serif;
+  color: #050a20;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  text-align: justify;
+}
+
+.Home {
+  margin-top: 20px;
+  padding: 10px;
+}

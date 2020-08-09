@@ -1,0 +1,7 @@
+.nav-item .nav-link a {
+  color: #fa923f !important;
+}
+.navbar {
+  min-height: 80px;
+  border-bottom: 1px solid gainsboro;
+}
